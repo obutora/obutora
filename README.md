@@ -1,4 +1,10 @@
 ### Hi there 👋
+#### My Zenn Status.
+[![Likes](https://badgen.org/img/zenn/hagakun_dev/likes?style=flat)](https://zenn.dev/hagakun_dev)
+[![Followers](https://badgen.org/img/zenn/hagakun_dev/followers?style=flat)](https://zenn.dev/hagakun_dev)  
+
+<!-- #### Activity.
+[![trophy](https://github-profile-trophy.vercel.app/?username=obutora)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!--
 **obutora/obutora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
